@@ -1,0 +1,6 @@
+#Enviroment
+.env
+# Firebase service account key (private key)
+firebase-service-account.json
+
+node_modules
